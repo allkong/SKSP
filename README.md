@@ -12,4 +12,4 @@ __P__ rofessor <br/>
 이를 위해 개발한 학생 - 교수 간의 소통 프로그램입니다.
 
 >자세히 <br/>
->https://velog.io/@allkong/c-project-SKSP
+>https://allkong.tistory.com/2?category=957882
